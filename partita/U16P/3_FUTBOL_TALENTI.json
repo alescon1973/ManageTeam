@@ -1,0 +1,102 @@
+{
+    "giornata": 3,
+    "squadra": "FUTBOL TALENTI",
+    "home_away": "Fuori Casa",
+    "risultato": "3-6",
+    "recupero": 5,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Gabriele CAU",
+        "Mattia CASTELLUCCI",
+        "Giovanni BOCCIA",
+        "Edoardo PALANCA",
+        "Alessio IGLIOZZI",
+        "Pietro MANCINI",
+        "Lorenzo CAU",
+        "Flavio MOZZI",
+        "Lorenzo RABBI",
+        "Matteo  FERRAUTI",
+        "Michele CARUSO",
+        "Gabriele CESANDRI",
+        "Lorenzo CAPANNOLO",
+        "Jacopo GENTILI",
+        "Davide PENNACCHINI",
+        "Daniele PICARIELLO",
+        "",
+        "",
+        ""
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Matteo  FERRAUTI",
+            "sub_out": "Daniele PICARIELLO",
+            "time_sub": 45
+        },
+        {
+            "sub_in": "Mattia CASTELLUCCI",
+            "sub_out": "Michele CARUSO",
+            "time_sub": 47
+        },
+        {
+            "sub_in": "Pietro MANCINI",
+            "sub_out": "Davide PENNACCHINI",
+            "time_sub": 55
+        },
+        {
+            "sub_in": "Lorenzo CAU",
+            "sub_out": "Jacopo GENTILI",
+            "time_sub": 65
+        },
+        {
+            "sub_in": "Giovanni BOCCIA",
+            "sub_out": "Gabriele CESANDRI",
+            "time_sub": 68
+        },
+        {
+            "sub_in": "Lorenzo RABBI",
+            "sub_out": "Lorenzo CAPANNOLO",
+            "time_sub": 68
+        }
+    ],
+    "ammonizioni": [],
+    "espulsioni": [],
+    "goal": [
+        "Flavio MOZZI",
+        "Flavio MOZZI",
+        "Flavio MOZZI"
+    ],
+    "non_convocati": [
+        {
+            "giocatore": "Vincenzo CIRILLO",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Riccardo CASTELLANI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Enea COLANGELI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Gabriele GIANNOPOLO",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Bruno MARRUCCI",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Davide RIFERZI",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Gianni LO PICCOLO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Julian GENTILI",
+            "motivo": "NON ALLENATO"
+        }
+    ]
+}

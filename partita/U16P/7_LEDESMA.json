@@ -1,0 +1,127 @@
+{
+    "giornata": 7,
+    "squadra": "LEDESMA",
+    "home_away": "Fuori Casa",
+    "risultato": "1-0",
+    "recupero": 5,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Tommaso BACIU",
+        "Gabriele CAU",
+        "Giovanni BOCCIA",
+        "Valerio CONTI",
+        "Gabriele CESANDRI",
+        "Pietro MANCINI",
+        "Davide RIFERZI",
+        "Lorenzo RABBI",
+        "Gianni LO PICCOLO",
+        "Lorenzo CAU",
+        "",
+        "Lorenzo CAPANNOLO",
+        "Michele CARUSO",
+        "Vincenzo CIRILLO",
+        "Jacopo GENTILI",
+        "Bruno MARRUCCI",
+        "Davide PENNACCHINI",
+        "",
+        ""
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Gabriele CAU",
+            "sub_out": "Lorenzo CAPANNOLO",
+            "time_sub": 78
+        },
+        {
+            "sub_in": "Gabriele CESANDRI",
+            "sub_out": "Jacopo GENTILI",
+            "time_sub": 52
+        },
+        {
+            "sub_in": "Pietro MANCINI",
+            "sub_out": "Bruno MARRUCCI",
+            "time_sub": 67
+        },
+        {
+            "sub_in": "Lorenzo RABBI",
+            "sub_out": "Davide PENNACCHINI",
+            "time_sub": 64
+        },
+        {
+            "sub_in": "Lorenzo CAU",
+            "sub_out": "Michele CARUSO",
+            "time_sub": 78
+        }
+    ],
+    "ammonizioni": [],
+    "espulsioni": [],
+    "goal": [
+        "Davide RIFERZI"
+    ],
+    "non_convocati": [
+        {
+            "giocatore": "Edoardo BALESTRIERI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Riccardo CASTELLANI",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Mattia CASTELLUCCI",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Enea COLANGELI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Matteo  FERRAUTI",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Julian GENTILI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Gabriele GIANNOPOLO",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Alessio IGLIOZZI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Cristiano MIGENI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Lorenzo MIGENI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Flavio MOZZI",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Edoardo PALANCA",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Daniele PICARIELLO",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Valerio CAGNUCCI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Mirko BARONE",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Eyan ELWANY",
+            "motivo": "NON DISPONIBILE"
+        }
+    ]
+}

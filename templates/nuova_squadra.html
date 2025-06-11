@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>Crea Nuova Squadra</h2>
+    
+    <form method="POST">
+        <div class="form-group">
+            <label for="nome_squadra">Nome Squadra:</label>
+            <select id="nome_squadra" name="nome_squadra" required>
+                <option value="">Seleziona...</option>
+                {% for squadra in squadre_disponibili %}
+                    <option value="{{ squadra }}">{{ squadra }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        
+        <div class="form-actions">
+            <button type="submit" class="button">Crea Squadra</button>
+            <a href="{{ url_for('index') }}" class="button cancel">Annulla</a>
+        </div>
+    </form>
+{% endblock %}

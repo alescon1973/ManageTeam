@@ -1,0 +1,127 @@
+{
+    "giornata": 10,
+    "squadra": "NOVA 7",
+    "home_away": "Casa",
+    "risultato": "1-0",
+    "recupero": 5,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Cristiano MIGENI",
+        "Mattia CASTELLUCCI",
+        "Giovanni BOCCIA",
+        "Gabriele CAU",
+        "Gabriele GIANNOPOLO",
+        "Pietro MANCINI",
+        "Riccardo CASTELLANI",
+        "Lorenzo RABBI",
+        "Gianni LO PICCOLO",
+        "Tommaso BACIU",
+        "Michele CARUSO",
+        "Gabriele CESANDRI",
+        "Matteo  FERRAUTI",
+        "Bruno MARRUCCI",
+        "Lorenzo MIGENI",
+        "Davide PENNACCHINI",
+        "Davide RIFERZI",
+        "",
+        ""
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Mattia CASTELLUCCI",
+            "sub_out": "Michele CARUSO",
+            "time_sub": 78
+        },
+        {
+            "sub_in": "Giovanni BOCCIA",
+            "sub_out": "Bruno MARRUCCI",
+            "time_sub": 68
+        },
+        {
+            "sub_in": "Pietro MANCINI",
+            "sub_out": "Davide PENNACCHINI",
+            "time_sub": 70
+        },
+        {
+            "sub_in": "Riccardo CASTELLANI",
+            "sub_out": "Davide RIFERZI",
+            "time_sub": 40
+        },
+        {
+            "sub_in": "Lorenzo RABBI",
+            "sub_out": "Matteo  FERRAUTI",
+            "time_sub": 57
+        },
+        {
+            "sub_in": "Gianni LO PICCOLO",
+            "sub_out": "Gabriele CESANDRI",
+            "time_sub": 77
+        },
+        {
+            "sub_in": "Tommaso BACIU",
+            "sub_out": "Lorenzo MIGENI",
+            "time_sub": 40
+        }
+    ],
+    "ammonizioni": [
+        "Gabriele GIANNOPOLO"
+    ],
+    "espulsioni": [],
+    "goal": [
+        "Tommaso BACIU"
+    ],
+    "non_convocati": [
+        {
+            "giocatore": "Lorenzo CAPANNOLO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Lorenzo CAU",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Vincenzo CIRILLO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Enea COLANGELI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Julian GENTILI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Jacopo GENTILI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Alessio IGLIOZZI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Flavio MOZZI",
+            "motivo": "RITIRATO"
+        },
+        {
+            "giocatore": "Edoardo PALANCA",
+            "motivo": "RITIRATO"
+        },
+        {
+            "giocatore": "Valerio CAGNUCCI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Mirko BARONE",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Eyan ELWANY",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Valerio CONTI",
+            "motivo": "ALTRA CATEGORIA"
+        }
+    ]
+}

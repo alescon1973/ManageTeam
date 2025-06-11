@@ -1,0 +1,140 @@
+{
+    "giornata": 15,
+    "squadra": "VICOVARO",
+    "home_away": "Casa",
+    "risultato": "3-2",
+    "recupero": 5,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Bruno MARRUCCI",
+        "Gabriele CAU",
+        "Giovanni BOCCIA",
+        "Gabriele GIANNOPOLO",
+        "Mattia AGOSTINI",
+        "Tommaso BACIU",
+        "Jacopo GENTILI",
+        "Matteo  FERRAUTI",
+        "Gianni LO PICCOLO",
+        "Pietro MANCINI",
+        "",
+        "Lorenzo CAPANNOLO",
+        "Riccardo CASTELLANI",
+        "Gabriele CESANDRI",
+        "Vincenzo CIRILLO",
+        "Davide PENNACCHINI",
+        "Lorenzo RABBI",
+        "Davide RIFERZI",
+        ""
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Bruno MARRUCCI",
+            "sub_out": "Lorenzo RABBI",
+            "time_sub": 58
+        },
+        {
+            "sub_in": "Gabriele GIANNOPOLO",
+            "sub_out": "Riccardo CASTELLANI",
+            "time_sub": 72
+        },
+        {
+            "sub_in": "Jacopo GENTILI",
+            "sub_out": "Davide RIFERZI",
+            "time_sub": 46
+        },
+        {
+            "sub_in": "Gianni LO PICCOLO",
+            "sub_out": "Davide PENNACCHINI",
+            "time_sub": 67
+        },
+        {
+            "sub_in": "Pietro MANCINI",
+            "sub_out": "Gabriele CESANDRI",
+            "time_sub": 75
+        }
+    ],
+    "ammonizioni": [
+        "Mattia AGOSTINI",
+        "Davide RIFERZI"
+    ],
+    "espulsioni": [],
+    "goal": [
+        "Matteo  FERRAUTI",
+        "Matteo  FERRAUTI",
+        "Mattia AGOSTINI"
+    ],
+    "non_convocati": [
+        {
+            "giocatore": "Michele CARUSO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Mattia CASTELLUCCI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Lorenzo CAU",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Enea COLANGELI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Julian GENTILI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Alessio IGLIOZZI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Cristiano MIGENI",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Lorenzo MIGENI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Flavio MOZZI",
+            "motivo": "RITIRATO"
+        },
+        {
+            "giocatore": "Edoardo PALANCA",
+            "motivo": "RITIRATO"
+        },
+        {
+            "giocatore": "Valerio CAGNUCCI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Mirko BARONE",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Eyan ELWANY",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Valerio CONTI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Mattia PATASCE",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Giordano PERCONTI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Alessio VEGLIANTI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Giacomo CICCARELLA",
+            "motivo": "ALTRA CATEGORIA"
+        }
+    ]
+}

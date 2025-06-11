@@ -1,0 +1,154 @@
+{
+    "giornata": 20,
+    "squadra": "LEDESMA ACADEMY",
+    "home_away": "Casa",
+    "risultato": "5-0",
+    "recupero": 5,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Cristiano MIGENI",
+        "Gabriele CAU",
+        "Giovanni BOCCIA",
+        "Valerio CONTI",
+        "Gabriele GIANNOPOLO",
+        "Mayo DE FEO",
+        "Davide RIFERZI",
+        "Davide PENNACCHINI",
+        "Tommaso BACIU",
+        "Pietro MANCINI",
+        "Enea COLANGELI",
+        "Lorenzo CAPANNOLO",
+        "Gabriele CESANDRI",
+        "Vincenzo CIRILLO",
+        "Jacopo GENTILI",
+        "Lorenzo MIGENI",
+        "",
+        "",
+        ""
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Mathias NICOLETTI",
+            "sub_out": "Enea COLANGELI",
+            "time_sub": 68
+        },
+        {
+            "sub_in": "Valerio CONTI",
+            "sub_out": "Vincenzo CIRILLO",
+            "time_sub": 70
+        },
+        {
+            "sub_in": "Davide RIFERZI",
+            "sub_out": "Jacopo GENTILI",
+            "time_sub": 62
+        },
+        {
+            "sub_in": "Davide PENNACCHINI",
+            "sub_out": "Gabriele CESANDRI",
+            "time_sub": 48
+        },
+        {
+            "sub_in": "Tommaso BACIU",
+            "sub_out": "Cristiano MIGENI",
+            "time_sub": 55
+        },
+        {
+            "sub_in": "Pietro MANCINI",
+            "sub_out": "Lorenzo CAPANNOLO",
+            "time_sub": 70
+        }
+    ],
+    "ammonizioni": [
+        "Valerio CONTI"
+    ],
+    "espulsioni": [],
+    "goal": [
+        "Giovanni BOCCIA",
+        "Giovanni BOCCIA",
+        "Mathias NICOLETTI",
+        "Gabriele GIANNOPOLO",
+        "Lorenzo MIGENI"
+    ],
+    "non_convocati": [
+        {
+            "giocatore": "Michele CARUSO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Riccardo CASTELLANI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Mattia CASTELLUCCI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Lorenzo CAU",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Matteo  FERRAUTI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Julian GENTILI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Alessio IGLIOZZI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Gianni LO PICCOLO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Bruno MARRUCCI",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Flavio MOZZI",
+            "motivo": "RITIRATO"
+        },
+        {
+            "giocatore": "Edoardo PALANCA",
+            "motivo": "RITIRATO"
+        },
+        {
+            "giocatore": "Lorenzo RABBI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Valerio CAGNUCCI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Mirko BARONE",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Eyan ELWANY",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Mattia PATASCE",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Giordano PERCONTI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Alessio VEGLIANTI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Giacomo CICCARELLA",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Mattia AGOSTINI",
+            "motivo": "ALTRA CATEGORIA"
+        }
+    ]
+}

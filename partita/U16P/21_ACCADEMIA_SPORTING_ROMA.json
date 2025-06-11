@@ -1,0 +1,159 @@
+{
+    "giornata": 21,
+    "squadra": "ACCADEMIA SPORTING ROMA",
+    "home_away": "Fuori Casa",
+    "risultato": "5-0",
+    "recupero": 5,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Cristiano MIGENI",
+        "Mattia CASTELLUCCI",
+        "Giovanni BOCCIA",
+        "Gabriele GIANNOPOLO",
+        "Gabriele CAU",
+        "Tommaso BACIU",
+        "Jacopo GENTILI",
+        "Riccardo CASTELLANI",
+        "Gianni LO PICCOLO",
+        "Lorenzo MIGENI",
+        "",
+        "",
+        "Gabriele CESANDRI",
+        "Matteo  FERRAUTI",
+        "Bruno MARRUCCI",
+        "Davide PENNACCHINI",
+        "",
+        "",
+        ""
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Giovanni BOCCIA",
+            "sub_out": "Gabriele CESANDRI",
+            "time_sub": 55
+        },
+        {
+            "sub_in": "Jacopo GENTILI",
+            "sub_out": "Bruno MARRUCCI",
+            "time_sub": 48
+        },
+        {
+            "sub_in": "Riccardo CASTELLANI",
+            "sub_out": "Matteo  FERRAUTI",
+            "time_sub": 51
+        },
+        {
+            "sub_in": "Gianni LO PICCOLO",
+            "sub_out": "Davide PENNACCHINI",
+            "time_sub": 67
+        }
+    ],
+    "ammonizioni": [
+        "Giovanni BOCCIA",
+        "Jacopo GENTILI",
+        "Gianni LO PICCOLO"
+    ],
+    "espulsioni": [
+        {
+            "esp_player": "Lorenzo MIGENI",
+            "time_esp": 60
+        }
+    ],
+    "goal": [
+        "Tommaso BACIU",
+        "Mattia CASTELLUCCI",
+        "Gianni LO PICCOLO",
+        "Bruno MARRUCCI",
+        "Tommaso BACIU"
+    ],
+    "non_convocati": [
+        {
+            "giocatore": "Lorenzo CAPANNOLO",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Michele CARUSO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Lorenzo CAU",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Vincenzo CIRILLO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Enea COLANGELI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Julian GENTILI",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Alessio IGLIOZZI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Pietro MANCINI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Flavio MOZZI",
+            "motivo": "RITIRATO"
+        },
+        {
+            "giocatore": "Edoardo PALANCA",
+            "motivo": "RITIRATO"
+        },
+        {
+            "giocatore": "Lorenzo RABBI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Davide RIFERZI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Valerio CAGNUCCI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Mirko BARONE",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Eyan ELWANY",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Valerio CONTI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Mattia PATASCE",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Giordano PERCONTI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Alessio VEGLIANTI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Giacomo CICCARELLA",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Mattia AGOSTINI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Mayo DE FEO",
+            "motivo": "ALTRA CATEGORIA"
+        }
+    ]
+}

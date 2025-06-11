@@ -1,0 +1,147 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+header {
+    background: #0056b3;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav {
+    background: #f4f4f4;
+    padding: 0.5rem;
+}
+
+nav a {
+    margin-right: 1rem;
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+    color: #0056b3;
+}
+
+main {
+    padding: 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.flash-messages {
+    margin-bottom: 1rem;
+}
+
+.flash {
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 4px;
+}
+
+.flash.success {
+    background: #d4edda;
+    color: #155724;
+}
+
+.flash.error {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+.button {
+    display: inline-block;
+    background: #0056b3;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    background: #003d7a;
+}
+
+.button.cancel {
+    background: #6c757d;
+}
+
+.button.danger {
+    background: #dc3545;
+}
+
+.button.small {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.8rem;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-row {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.form-row .form-group {
+    flex: 1;
+}
+
+.form-actions {
+    margin-top: 1rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.25rem;
+}
+
+input, select {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.squadre-list {
+    list-style: none;
+    padding: 0;
+}
+
+.squadre-list li {
+    margin-bottom: 0.5rem;
+}
+
+.squadre-list a {
+    text-decoration: none;
+    color: #0056b3;
+}
+
+.giocatori-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+}
+
+.giocatori-table th, .giocatori-table td {
+    border: 1px solid #ddd;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+.giocatori-table th {
+    background: #f4f4f4;
+}
+
+.actions {
+    margin-top: 1rem;
+}

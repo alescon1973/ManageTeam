@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h2>Squadre Esistenti</h2>
+    
+    {% if squadre_esistenti %}
+        <ul class="squadre-list">
+            {% for squadra in squadre_esistenti %}
+                <li>
+                    <a href="{{ url_for('modifica_squadra', nome_squadra=squadra) }}">{{ squadra }}</a>
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>Nessuna squadra presente</p>
+    {% endif %}
+    
+    <div class="actions">
+        <a href="{{ url_for('nuova_squadra') }}" class="button">Crea Nuova Squadra</a>
+    </div>
+{% endblock %}

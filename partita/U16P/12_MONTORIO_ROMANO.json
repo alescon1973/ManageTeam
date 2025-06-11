@@ -1,0 +1,141 @@
+{
+    "giornata": 12,
+    "squadra": "MONTORIO ROMANO",
+    "home_away": "Casa",
+    "risultato": "9-1",
+    "recupero": 5,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Bruno MARRUCCI",
+        "Mattia CASTELLUCCI",
+        "Giovanni BOCCIA",
+        "Valerio CONTI",
+        "Mattia PATASCE",
+        "Tommaso BACIU",
+        "Riccardo CASTELLANI",
+        "Matteo  FERRAUTI",
+        "Gianni LO PICCOLO",
+        "Pietro MANCINI",
+        "Enea COLANGELI",
+        "Lorenzo CAPANNOLO",
+        "Vincenzo CIRILLO",
+        "Gabriele GIANNOPOLO",
+        "Giordano PERCONTI",
+        "Davide RIFERZI",
+        "Lorenzo RABBI",
+        "",
+        ""
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Mathias NICOLETTI",
+            "sub_out": "Enea COLANGELI",
+            "time_sub": 52
+        },
+        {
+            "sub_in": "Bruno MARRUCCI",
+            "sub_out": "Vincenzo CIRILLO",
+            "time_sub": 48
+        },
+        {
+            "sub_in": "Giovanni BOCCIA",
+            "sub_out": "Giordano PERCONTI",
+            "time_sub": 48
+        },
+        {
+            "sub_in": "Mattia PATASCE",
+            "sub_out": "Giovanni BOCCIA",
+            "time_sub": 61
+        },
+        {
+            "sub_in": "Riccardo CASTELLANI",
+            "sub_out": "Lorenzo RABBI",
+            "time_sub": 45
+        },
+        {
+            "sub_in": "Matteo  FERRAUTI",
+            "sub_out": "Lorenzo CAPANNOLO",
+            "time_sub": 57
+        },
+        {
+            "sub_in": "Pietro MANCINI",
+            "sub_out": "Davide RIFERZI",
+            "time_sub": 45
+        }
+    ],
+    "ammonizioni": [],
+    "espulsioni": [],
+    "goal": [
+        "Giovanni BOCCIA",
+        "Valerio CONTI",
+        "Valerio CONTI",
+        "Riccardo CASTELLANI",
+        "Matteo  FERRAUTI",
+        "Matteo  FERRAUTI",
+        "Lorenzo CAPANNOLO",
+        "Lorenzo RABBI",
+        "Davide RIFERZI"
+    ],
+    "non_convocati": [
+        {
+            "giocatore": "Michele CARUSO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Gabriele CAU",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Lorenzo CAU",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Gabriele CESANDRI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Julian GENTILI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Jacopo GENTILI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Alessio IGLIOZZI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Cristiano MIGENI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Lorenzo MIGENI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Flavio MOZZI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Edoardo PALANCA",
+            "motivo": "RITIRATO"
+        },
+        {
+            "giocatore": "Davide PENNACCHINI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Valerio CAGNUCCI",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Mirko BARONE",
+            "motivo": "ALTRA CATEGORIA"
+        },
+        {
+            "giocatore": "Eyan ELWANY",
+            "motivo": "NON ALLENATO"
+        }
+    ]
+}

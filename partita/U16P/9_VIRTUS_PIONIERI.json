@@ -1,0 +1,124 @@
+{
+    "giornata": 9,
+    "squadra": "VIRTUS PIONIERI",
+    "home_away": "Fuori Casa",
+    "risultato": "3-2",
+    "recupero": 3,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Gabriele CAU",
+        "Matteo  FERRAUTI",
+        "Lorenzo CAU",
+        "Gabriele GIANNOPOLO",
+        "Alessio IGLIOZZI",
+        "Pietro MANCINI",
+        "Gabriele CESANDRI",
+        "Lorenzo RABBI",
+        "Gianni LO PICCOLO",
+        "Tommaso BACIU",
+        "Enea COLANGELI",
+        "Lorenzo CAPANNOLO",
+        "Michele CARUSO",
+        "Mattia CASTELLUCCI",
+        "Bruno MARRUCCI",
+        "Davide PENNACCHINI",
+        "",
+        "",
+        ""
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Matteo  FERRAUTI",
+            "sub_out": "Bruno MARRUCCI",
+            "time_sub": 43
+        },
+        {
+            "sub_in": "Lorenzo CAU",
+            "sub_out": "Michele CARUSO",
+            "time_sub": 73
+        },
+        {
+            "sub_in": "Pietro MANCINI",
+            "sub_out": "Lorenzo CAPANNOLO",
+            "time_sub": 63
+        },
+        {
+            "sub_in": "Gabriele CESANDRI",
+            "sub_out": "Davide PENNACCHINI",
+            "time_sub": 53
+        }
+    ],
+    "ammonizioni": [],
+    "espulsioni": [],
+    "goal": [
+        "Gabriele GIANNOPOLO",
+        "Lorenzo RABBI",
+        "Tommaso BACIU"
+    ],
+    "non_convocati": [
+        {
+            "giocatore": "Edoardo BALESTRIERI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Giovanni BOCCIA",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Riccardo CASTELLANI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Vincenzo CIRILLO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Julian GENTILI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Jacopo GENTILI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Cristiano MIGENI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Lorenzo MIGENI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Flavio MOZZI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Edoardo PALANCA",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Daniele PICARIELLO",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Davide RIFERZI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Valerio CAGNUCCI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Mirko BARONE",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Eyan ELWANY",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Valerio CONTI",
+            "motivo": "NON DISPONIBILE"
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "giornata": 8,
+    "squadra": "ACCADEMIA SPORTING ROMA",
+    "home_away": "Casa",
+    "risultato": "3-2",
+    "recupero": 2,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Tommaso BACIU",
+        "Mattia CASTELLUCCI",
+        "Giovanni BOCCIA",
+        "Gabriele GIANNOPOLO",
+        "Gabriele CAU",
+        "Pietro MANCINI",
+        "Davide PENNACCHINI",
+        "Lorenzo RABBI",
+        "Gianni LO PICCOLO",
+        "Lorenzo CAU",
+        "",
+        "Lorenzo CAPANNOLO",
+        "Gabriele CESANDRI",
+        "Riccardo CASTELLANI",
+        "Bruno MARRUCCI",
+        "Matteo  FERRAUTI",
+        "Vincenzo CIRILLO",
+        "Jacopo GENTILI",
+        ""
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Tommaso BACIU",
+            "sub_out": "Matteo  FERRAUTI",
+            "time_sub": 70
+        },
+        {
+            "sub_in": "Mattia CASTELLUCCI",
+            "sub_out": "Vincenzo CIRILLO",
+            "time_sub": 77
+        },
+        {
+            "sub_in": "Gabriele CAU",
+            "sub_out": "Gabriele CESANDRI",
+            "time_sub": 72
+        },
+        {
+            "sub_in": "Pietro MANCINI",
+            "sub_out": "Riccardo CASTELLANI",
+            "time_sub": 63
+        },
+        {
+            "sub_in": "Davide PENNACCHINI",
+            "sub_out": "Matteo  FERRAUTI",
+            "time_sub": 52
+        },
+        {
+            "sub_in": "Lorenzo RABBI",
+            "sub_out": "Jacopo GENTILI",
+            "time_sub": 58
+        },
+        {
+            "sub_in": "Lorenzo CAU",
+            "sub_out": "Lorenzo CAPANNOLO",
+            "time_sub": 75
+        }
+    ],
+    "ammonizioni": [],
+    "espulsioni": [],
+    "goal": [
+        "Gianni LO PICCOLO",
+        "Gianni LO PICCOLO",
+        "Gianni LO PICCOLO"
+    ],
+    "non_convocati": [
+        {
+            "giocatore": "Edoardo BALESTRIERI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Michele CARUSO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Enea COLANGELI",
+            "motivo": "MALATTIA"
+        },
+        {
+            "giocatore": "Julian GENTILI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Alessio IGLIOZZI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Cristiano MIGENI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Lorenzo MIGENI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Flavio MOZZI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Edoardo PALANCA",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Daniele PICARIELLO",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Davide RIFERZI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Valerio CAGNUCCI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Mirko BARONE",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Eyan ELWANY",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Valerio CONTI",
+            "motivo": "NON DISPONIBILE"
+        }
+    ]
+}

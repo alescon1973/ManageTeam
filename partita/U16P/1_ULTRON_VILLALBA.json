@@ -1,0 +1,101 @@
+{
+    "giornata": 1,
+    "squadra": "ULTRON VILLALBA",
+    "home_away": "Casa",
+    "risultato": "0-2",
+    "recupero": 5,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Gabriele CAU",
+        "Valerio CAGNUCCI",
+        "Giovanni BOCCIA",
+        "Gabriele GIANNOPOLO",
+        "Alessio IGLIOZZI",
+        "Pietro MANCINI",
+        "Lorenzo CAU",
+        "Flavio MOZZI",
+        "Davide RIFERZI",
+        "Matteo  FERRAUTI",
+        "Julian GENTILI",
+        "Lorenzo CAPANNOLO",
+        "Michele CARUSO",
+        "Mattia CASTELLUCCI",
+        "Gabriele CESANDRI",
+        "Jacopo GENTILI",
+        "Bruno MARRUCCI",
+        "Davide PENNACCHINI",
+        "Lorenzo RABBI"
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Lorenzo CAU",
+            "sub_out": "Gabriele CESANDRI",
+            "time_sub": 45
+        },
+        {
+            "sub_in": "Matteo  FERRAUTI",
+            "sub_out": "Lorenzo RABBI",
+            "time_sub": 45
+        },
+        {
+            "sub_in": "Pietro MANCINI",
+            "sub_out": "Davide PENNACCHINI",
+            "time_sub": 50
+        },
+        {
+            "sub_in": "Valerio CAGNUCCI",
+            "sub_out": "Mattia CASTELLUCCI",
+            "time_sub": 50
+        },
+        {
+            "sub_in": "Flavio MOZZI",
+            "sub_out": "Jacopo GENTILI",
+            "time_sub": 52
+        }
+    ],
+    "ammonizioni": [],
+    "espulsioni": [],
+    "goal": [],
+    "non_convocati": [
+        {
+            "giocatore": "Edoardo BALESTRIERI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Riccardo CASTELLANI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Vincenzo CIRILLO",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Enea COLANGELI",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Gianni LO PICCOLO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Cristiano MIGENI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Lorenzo MIGENI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Edoardo PALANCA",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Daniele PICARIELLO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Tommaso BACIU",
+            "motivo": "NON DISPONIBILE"
+        }
+    ]
+}

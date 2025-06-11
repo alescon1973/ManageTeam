@@ -1,0 +1,132 @@
+{
+    "giornata": 4,
+    "squadra": "MENTANA",
+    "home_away": "Casa",
+    "risultato": "2-2",
+    "recupero": 3,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Cristiano MIGENI",
+        "Gabriele CAU",
+        "Giovanni BOCCIA",
+        "Valerio CONTI",
+        "Gabriele GIANNOPOLO",
+        "Lorenzo CAU",
+        "Davide RIFERZI",
+        "Flavio MOZZI",
+        "Gianni LO PICCOLO",
+        "Pietro MANCINI",
+        "Enea COLANGELI",
+        "Gabriele CESANDRI",
+        "Davide PENNACCHINI",
+        "Lorenzo RABBI",
+        "Matteo  FERRAUTI",
+        "Jacopo GENTILI",
+        "Lorenzo MIGENI",
+        "Daniele PICARIELLO",
+        ""
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Lorenzo CAU",
+            "sub_out": "Daniele PICARIELLO",
+            "time_sub": 77
+        },
+        {
+            "sub_in": "Davide RIFERZI",
+            "sub_out": "Lorenzo RABBI",
+            "time_sub": 53
+        },
+        {
+            "sub_in": "Flavio MOZZI",
+            "sub_out": "Matteo  FERRAUTI",
+            "time_sub": 68
+        },
+        {
+            "sub_in": "Gianni LO PICCOLO",
+            "sub_out": "Jacopo GENTILI",
+            "time_sub": 77
+        },
+        {
+            "sub_in": "Mathias NICOLETTI",
+            "sub_out": "Lorenzo MIGENI",
+            "time_sub": 45
+        }
+    ],
+    "ammonizioni": [
+        "Lorenzo MIGENI",
+        "Cristiano MIGENI",
+        "Davide RIFERZI"
+    ],
+    "espulsioni": [],
+    "goal": [
+        "Gabriele GIANNOPOLO",
+        "Giovanni BOCCIA"
+    ],
+    "non_convocati": [
+        {
+            "giocatore": "Edoardo BALESTRIERI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Lorenzo CAPANNOLO",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Michele CARUSO",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Riccardo CASTELLANI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Mattia CASTELLUCCI",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Vincenzo CIRILLO",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Julian GENTILI",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Alessio IGLIOZZI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Bruno MARRUCCI",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Edoardo PALANCA",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Tommaso BACIU",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Valerio CAGNUCCI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Mirko BARONE",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Eyan ELWANY",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Damiano SILVESTRI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Luca SERAFINI",
+            "motivo": "NON DISPONIBILE"
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "giornata": 5,
+    "squadra": "GUIDONIA",
+    "home_away": "Casa",
+    "risultato": "2-3",
+    "recupero": 5,
+    "formazione": [
+        "Mathias NICOLETTI",
+        "Gabriele CAU",
+        "Mattia CASTELLUCCI",
+        "Giovanni BOCCIA",
+        "Alessio IGLIOZZI",
+        "Gabriele GIANNOPOLO",
+        "Lorenzo CAU",
+        "Davide RIFERZI",
+        "Flavio MOZZI",
+        "Gianni LO PICCOLO",
+        "Pietro MANCINI",
+        "Enea COLANGELI",
+        "Tommaso BACIU",
+        "Michele CARUSO",
+        "Gabriele CESANDRI",
+        "Jacopo GENTILI",
+        "Davide PENNACCHINI",
+        "Riccardo CASTELLANI",
+        "Lorenzo RABBI",
+        "Vincenzo CIRILLO"
+    ],
+    "substitutions": [
+        {
+            "sub_in": "Gabriele CAU",
+            "sub_out": "Michele CARUSO",
+            "time_sub": 77
+        },
+        {
+            "sub_in": "Mattia CASTELLUCCI",
+            "sub_out": "Tommaso BACIU",
+            "time_sub": 40
+        },
+        {
+            "sub_in": "Giovanni BOCCIA",
+            "sub_out": "Gabriele CESANDRI",
+            "time_sub": 75
+        },
+        {
+            "sub_in": "Lorenzo CAU",
+            "sub_out": "Lorenzo RABBI",
+            "time_sub": 65
+        },
+        {
+            "sub_in": "Davide RIFERZI",
+            "sub_out": "Davide PENNACCHINI",
+            "time_sub": 59
+        },
+        {
+            "sub_in": "Gianni LO PICCOLO",
+            "sub_out": "Jacopo GENTILI",
+            "time_sub": 69
+        },
+        {
+            "sub_in": "Pietro MANCINI",
+            "sub_out": "Riccardo CASTELLANI",
+            "time_sub": 49
+        }
+    ],
+    "ammonizioni": [],
+    "espulsioni": [
+        {
+            "esp_player": "Gabriele GIANNOPOLO",
+            "time_esp": 65
+        }
+    ],
+    "goal": [
+        "Alessio IGLIOZZI",
+        "Giovanni BOCCIA"
+    ],
+    "non_convocati": [
+        {
+            "giocatore": "Edoardo BALESTRIERI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Lorenzo CAPANNOLO",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Matteo  FERRAUTI",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Julian GENTILI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Bruno MARRUCCI",
+            "motivo": "SCELTA TECNICA"
+        },
+        {
+            "giocatore": "Cristiano MIGENI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Lorenzo MIGENI",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Edoardo PALANCA",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Daniele PICARIELLO",
+            "motivo": "NON ALLENATO"
+        },
+        {
+            "giocatore": "Valerio CAGNUCCI",
+            "motivo": "INFORTUNATO"
+        },
+        {
+            "giocatore": "Mirko BARONE",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Eyan ELWANY",
+            "motivo": "NON DISPONIBILE"
+        },
+        {
+            "giocatore": "Valerio CONTI",
+            "motivo": "NON DISPONIBILE"
+        }
+    ]
+}
