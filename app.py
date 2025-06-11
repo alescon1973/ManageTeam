@@ -23,7 +23,6 @@ import glob
 
 
 # Imposta la localizzazione italiana per i nomi dei mesi
-locale.setlocale(locale.LC_TIME, 'it_IT.UTF-8')
 
 # Percorsi base
 dir_squadre = "squadre"
@@ -281,7 +280,13 @@ elif st.session_state.pagina == "dashboard":
 
     elif st.session_state.sezione == "Presenze":
         col1, col2 = st.columns(2)
-        mesi_italiani = [datetime(2000, i, 1).strftime('%B').capitalize() for i in range(1, 13)]
+
+        # Nomi mesi italiani hardcoded per evitare locale
+        mesi_italiani = [
+            "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
+            "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"
+        ]
+
         with col1:
             mese = st.selectbox("Mese", mesi_italiani)
         with col2:
@@ -308,13 +313,19 @@ elif st.session_state.pagina == "dashboard":
             num_rows="dynamic",
             use_container_width=True,
             key=f"presenze_{chiave_mese}",
-            column_config={col: st.column_config.SelectboxColumn(label=col, options=["", "P", "AI", "MS", "ML", "I", "MP"]) for col in data_presenze.columns},
+            column_config={
+                col: st.column_config.SelectboxColumn(
+                    label=col,
+                    options=["", "P", "AI", "MS", "ML", "I", "MP"]
+                ) for col in data_presenze.columns
+            },
         )
 
         if st.button("Salva presenze"):
             presenze_data[chiave_mese] = edited_df.where(pd.notnull(edited_df), "").to_dict()
             save_presenze(squadra_sel, presenze_data)
             st.success("Presenze salvate correttamente.")
+
 
     elif st.session_state.sezione == "Convocazioni":
         # Crea directory convocazioni per la squadra se non esiste
