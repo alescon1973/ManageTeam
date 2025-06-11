@@ -6,3 +6,4 @@ reportlab
 plotly
 matplotlib
 python-dateutil
+streamlit-extras
